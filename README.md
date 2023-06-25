@@ -23,4 +23,5 @@ Contact with me:
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 Languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maglctea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
