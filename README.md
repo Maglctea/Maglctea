@@ -1,31 +1,45 @@
-### Hi there 👋
+## 👋 Hi. I am Daniil - backend developer
 
-#### My name is Daniil. I am Python backend developer
-Contact with me:
+###
+
+## 📱 Contacts
+
+###
 
 <a href="https://t.me/maglctea">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>
 
+###
+
+## 🛠️ Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="csharp logo"  />
+  
+  ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+  
+</div>
+
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
@@ -39,18 +53,6 @@ Contact with me:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
@@ -58,6 +60,22 @@ Contact with me:
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
 </div>
 
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
+<div align="center">
+  
+  ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+  
+</div>
 
 ###
 
