@@ -1,4 +1,4 @@
-## 👋 Hi. I am Daniil — backend developer
+<h1 align="center"> 👋 Hi. I am Daniil — developer </h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-## 🛠️ Stack
+## 🛠️ Tools
 
 <div align="center">
   
@@ -76,6 +76,10 @@
   ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
   
 </div>
+
+###
+
+## 🏆 Progress
 
 ###
 
