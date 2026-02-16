@@ -1,4 +1,4 @@
-## 👋 Hi. I am Daniil - backend developer
+## 👋 Hi. I am Daniil — backend developer
 
 ###
 
